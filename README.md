@@ -26,7 +26,7 @@ Cómo Usar
 1.Clona el repositorio:
 git clone [URL_DE_TU_REPOSITORIO]
 cd amigo-secreto
-2.  Abre `index.html`:Simplemente abre el archivo `index.html` en tu navegador web preferido.
+2.Abre `index.html`:Simplemente abre el archivo `index.html` en tu navegador web preferido.
 
 Notas del Desarrollador
 
